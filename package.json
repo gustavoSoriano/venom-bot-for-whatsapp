@@ -1,0 +1,16 @@
+{
+  "name": "venon-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "venom-bot": "^2.0.5"
+  }
+}
